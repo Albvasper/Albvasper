@@ -12,7 +12,7 @@ Welcome to my GitHub! I'm a game developer specializing in Unity and C# developm
 - **Currently Learning**: Godot Engine to expand my toolkit
 - **Looking to Collaborate**: Exciting game projects of all scales
 - **Favorite Game**: The Beginner's Guide (love narrative-driven experiences!)
-- **Location**: [Mexico City, Mexico]
+- **Location**: Mexico City, Mexico
 
 ---
 
