@@ -21,13 +21,14 @@ Welcome to my GitHub! I'm a game developer specializing in Unity and C# developm
 **Languages & Engines**
 - Unity 3D/2D
 - C#
+- C++
 - Godot Engine (learning)
 
 **Game Development**
 - Gameplay Programming
--  Game Architecture & Design Patterns
+- Game Architecture & Design Patterns
 - UI/UX Implementation
--  Game Systems Design
+- Game Systems Design
 - Cross-platform Development
 
 **Tools & Technologies**
