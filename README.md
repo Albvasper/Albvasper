@@ -2,7 +2,7 @@
 
 ## Unity Game Developer | C# Programmer
 
-Welcome to my GitHub! I'm a game developer specializing in Unity and C# development. I love creating immersive gaming experiences and am always excited to collaborate on innovative game projects.
+Welcome to my GitHub! I'm a game developer specializing in Unity and C# development. I love creating games and am always excited to collaborate on innovative projects.
 
 ---
 
