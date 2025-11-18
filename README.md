@@ -1,7 +1,7 @@
-# Indie game programmer.
+# Indie game programmer
 Welcome to my GitHub! I create indie games in Unity using C#. I love creating games and am always excited to collaborate on innovative projects.<br/>
 
-[Game programming portfolio🕹️](https://codebyalberto.framer.website/)<br/>
+[**Full portfolio🕹️**](https://codebyalberto.framer.website/)<br/>
 **Looking to Collaborate**: Exciting game projects of all scales.<br/>
 **Currently Learning**: Godot Engine to expand my toolkit.<br/>
 **Favorite Game**: The Beginner's Guide.<br/>
