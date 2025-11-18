@@ -1,65 +1,17 @@
-# 🎮 Hi there, I'm Alberto
+### Indie game programmer.
+<br>Welcome to my GitHub! I create indie games in Unity using C#. I love creating games and am always excited to collaborate on innovative projects.<br/>
 
-## Unity Game Developer | C# Programmer
+<br>[**Game programming portfolio🕹️**](https://codebyalberto.framer.website/)<br/>
+<br>**Looking to Collaborate**: Exciting game projects of all scales.<br/>
+<br>**Currently Learning**: Godot Engine to expand my toolkit.<br/>
+<br>**Favorite Game**: The Beginner's Guide.<br/>
 
-Welcome to my GitHub! I'm a game developer specializing in Unity and C# development. I love creating games and am always excited to collaborate on innovative projects.
+# Socials:
+ [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Albvasper)[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:albert.vp09@gmail.com) 
 
----
-
-### 🚀 About Me
-
-- **Focus**: Unity game development and C# programming
-- **Currently Learning**: Godot Engine to expand my toolkit
-- **Looking to Collaborate**: Exciting game projects of all scales
-- **Favorite Game**: The Beginner's Guide (love narrative-driven experiences!)
-- **Location**: Mexico City, Mexico
-
----
-
-### 🛠️ Technical Skills
-
-**Languages & Engines**
-- Unity 3D/2D
-- C#
-- C++
-- Godot Engine (learning)
-
-**Game Development**
-- Gameplay Programming
-- Game Architecture & Design Patterns
-- UI/UX Implementation
-- Game Systems Design
-- Cross-platform Development
-
-**Tools & Technologies**
-- Version Control: Git/GitHub
-- Art Integration
-- Debugging & Optimization
-- Performance Profiling
-
----
-
-### 🎯 Featured Projects
-
-#### [RTS Strategy Game](https://github.com/Albvasper/Thesis_project)
-*Real-time strategy game featuring advanced AI systems and complex gameplay mechanics*
-- **Tech Stack**: Unity, C#
-- **Role**: Solo Developer
-- **Key Features**: Behavior Tree AI, Unit Management Systems, Strategic Gameplay Loop
-
-####  [Going Up](https://github.com/Albvasper/GoingUp)
-*3D Platformer game in first person made for a Game Jam*
-- **Tech Stack**: Unity, C#
-- **Focus**: First person controller, jumping and walking mechanics
-
----
-
-
-### 📫 Let's Connect!
-
-I'm always open to discussing game development, sharing knowledge, or collaborating on exciting projects!
-
-- **LinkedIn**: www.linkedin.com/in/alberto-vasquez-perez
-- **Email**: albert.vp09@gmail.com
-- **Itch.io**: https://albvasper.itch.io/
-- **Portfolio**: https://codebyalberto.framer.website/
+# Stack:
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Godot Engine](https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
+# Stats:
+![](https://github-readme-stats.vercel.app/api?username=albvasper&theme=default&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=albvasper&theme=default&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=albvasper&theme=default&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
