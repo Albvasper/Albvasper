@@ -9,7 +9,8 @@
 
 ---
 
-I create indie games in Unity using C# and other tools. I love creating innovative games and I'm always excited to collaborate on exciting projects.<br/>
+I create indie games in Unity using C# and other tools. I love creating unique games and I'm always excited to collaborate on new projects.
+
 **Looking to Collaborate**: Exciting game projects of all scales.<br/>
 **Currently Learning**: Godot Engine to expand my toolkit.<br/>
 **Favorite Game**: The Beginner's Guide.<br/>
